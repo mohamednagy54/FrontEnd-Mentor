@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/kevin-powell/product-preview-card-component-main)
-- [Live version](https://jade-sprinkles-7fbebb.netlify.app/)
+- [Live version](https://frontend-mentor-challenge-1.netlify.app/)
 
 ## My process
 
